@@ -1,6 +1,9 @@
 function main() {
   // Only change code below this line
-  console.log("Hello World!");
+  // This is a single line JavaScript comment
+  /* This is
+    multi-line
+    comment! */
   // Only change code above this line
 }
 
